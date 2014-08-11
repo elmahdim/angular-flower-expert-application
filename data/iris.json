@@ -1,0 +1,16 @@
+    {
+        "id": "iris",
+        "name" : "Iris",
+        "desc" : "<p>Acacias are reffered as <b>Wattles in Australian</b>, and as <b>Acacia in Africa and America</b>. Acacia is the largest genus of vascular plants in the plant kingdom. The name Acacia is derived from the <b>Greek word akis meaning a point or barb</b>. About 1350 species of Acacia are found throughout the world. Acacia makes an excellent garden plant.</p><p>The genus Iris has about 200 species and is native to the North Temperate regions of the world. The habitat of irises also varies a lot. Some irises grow in deserts, some in swamps, some in the cold far north, and many in temperate climates. <b>Bearded Iris</b> and <b>Siberian Iris</b> are two of the most common types of irises grown.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Liliopsida",
+        "order" : "Asparagales",
+        "family" : "Iridaceae",
+        "subfamily" : "Mimosoideae",
+        "genus" : "Iris",
+        "images" : [
+            "images/iris-small.jpg",
+            "images/iris-large.jpg"
+        ]
+    }

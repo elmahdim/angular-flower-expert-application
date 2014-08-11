@@ -1,0 +1,18 @@
+    <div class="jumbotron">
+        <h1><app-name></app-name></h1>
+        <p>There is no dynamic backend (no application server) for this application. Instead we fake the an application server by fetching static json files.</p>
+        <p class="text-center">
+          <a class="btn btn-primary" href="" role="button">Fork me on Github</a>
+        </p>
+      </div>
+
+      <div class="row text-center" ng-controller="flowerListCtrl">
+        <div class="col-md-4" ng-repeat="item in flowers | limitTo:3">
+          <a href="#/flowers/{{item.id}}">
+			<img class="img-circle" ng-src="{{item.images[0]}}" alt="{{item.name}}" style="width: 140px; height: 140px;" />
+		  </a>
+          <h2>{{item.name}}</h2>
+          <div ng-bind-html="item.desc | limitTo: 100"></div>
+          <p><a class="btn btn-default" href="#/flowers/{{item.id}}" role="button">View details &raquo;</a></p>
+        </div>
+      </div>

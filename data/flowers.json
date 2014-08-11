@@ -1,0 +1,98 @@
+[
+	{
+		"id" : "acacia-flowers",
+        "name" : "Acacia Flowers",
+        "desc" : "<p>Acacias are reffered as <b>Wattles in Australian</b>, and as <b>Acacia in Africa and America</b>. Acacia is the largest genus of vascular plants in the plant kingdom. The name Acacia is derived from the <b>Greek word akis meaning a point or barb</b>. About 1350 species of Acacia are found throughout the world. Acacia makes an excellent garden plant.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Fabales",
+        "family" : "Fabaceae",
+        "subfamily" : "Mimosoideae",
+        "genus" : "Acacia",
+        "images" : [
+            "images/acacia-small.jpg",
+            "images/acacia-large.jpg"
+        ]
+	},
+    {
+        "id": "iris",
+        "name" : "Iris",
+        "desc" : "<p>Acacias are reffered as <b>Wattles in Australian</b>, and as <b>Acacia in Africa and America</b>. Acacia is the largest genus of vascular plants in the plant kingdom. The name Acacia is derived from the <b>Greek word akis meaning a point or barb</b>. About 1350 species of Acacia are found throughout the world. Acacia makes an excellent garden plant.</p><p>The genus Iris has about 200 species and is native to the North Temperate regions of the world. The habitat of irises also varies a lot. Some irises grow in deserts, some in swamps, some in the cold far north, and many in temperate climates. <b>Bearded Iris</b> and <b>Siberian Iris</b> are two of the most common types of irises grown.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Liliopsida",
+        "order" : "Asparagales",
+        "family" : "Iridaceae",
+        "subfamily" : "Mimosoideae",
+        "genus" : "Iris",
+        "images" : [
+            "images/iris-small.jpg",
+            "images/iris-large.jpg"
+        ]
+	},
+    {
+        "id": "hibiscus",
+        "name" : "Hibiscus",
+        "desc" : "<p>Hibiscus is considered the <b>Queen of the Tropics</b>. Hibiscus grow wild in many tropical, subtropical, and warm-temperate regions around the world.</p><p><b>Hibiscus is a diverse genus</b> made up of roughly 220 species of annuals, herbaceous perennials, shrubs, subshrubs, and trees. Hibiscus have been cultivated for centuries. The name 'Hibiscus' comes from hibiskos, the old Greek name for the common marsh mallow. The most commonly grown species is Hibiscus rosa-sinensis, which means <b>China Rose</b>.</p><p>Hibiscus are large, flat, conspicuous, trumpet-shaped flowers. Hiscus flowers have five petals, ranging from white to pink, red, purple or yellow. The Hisbiscus petals range in size from 4-15 cm broad.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Malvales",
+        "family" : "Malvaceae",
+        "subfamily" : "N/A",
+        "genus" : "Hibiscus",
+        "images" : [
+            "images/hibiscus-small.jpg",
+            "images/hibiscus-large.jpg"
+        ]
+	},
+    {
+        "id": "jasmine",
+        "name" : "Jasmine",
+        "desc" : "<p>The Jasmine is a very <u>popular flower</u> around the world especially in the tropics because of its <b>unique fragrance</b>. The Jasmine is native to tropical and warm or temperate regions of the old world.</p><p> The Jasmine flowers are white in most species, with some species being yellow. The Jasmine is believed to have originated in the Himalayas in western China.</p><p>Unlike most genera in the Oleceae family, which have four corolla lobe petals, <b>Jasmines often have five or six lobes.</b> Jasmines are often strong and sweet scented. Jasmines are widely cultivated for their shining leaves and beautiful clusters of <u>fragrant flowers</u>.</p><p> Flowering in Jasmines takes place in <u>summer</u> or spring which is usally six months after planting. The Jasmine flower releases its fragrance at night after the sun has set and especially when the moon is waxing towards fullness. Jasmine flower buds are more fragrant than the flowers.</p><p>There exists a true Jasmine and a false Jasmine, and the two are commonly mistaken for each other because of the fragrance the plants release. The <b>true Jasmine</b> belongs to the family Oleaceae and is primarily a bushy shrub or a climbing vine and is non-poisonous.</p><p> True Jasmines have oval, shiny leaves and tubular, waxy-white flowers. The false Jasmine on the other hand is in a completely different genus, Gelsemium, and family, Loganiaceae, which is considered too poisonous for human consumption.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Lamiales",
+        "family" : "Malvaceae",
+        "subfamily" : "Oleaceae",
+        "genus" : "Jasminum",
+        "images" : [
+            "images/jasmine-small.jpg",
+            "images/jasmine-large.jpg"
+        ]
+	},
+    {
+        "id": "lavender",
+        "name" : "Lavenders",
+        "desc" : "<p>Lavenders are considered to be one of the <b> versatile flowers</b> in the world. Besides being one of the very sweet smelling flowers and beautiful flowers, lavenders are sought-after for multiple uses, ranging from culinary to medicinal uses.</p><p>The historic use and recognition of lavender is almost as old the history of man. As a herb, <b>lavender has been in documented use for over 2,500 years</b>. In ancient times lavender was used for mummification and perfume by the Egyptians, Phoenicians, and people of Arabia. Mention of lavenders can also be found in the<b> Bible</b>, not by the name lavender but rather by the name used at that time -<b> spikenard</b>.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Lamiales",
+        "family" : "Lamiaceae",
+        "subfamily" : "N/A",
+        "genus" : "Lavandula",
+        "images" : [
+            "images/lavender-small.jpg",
+            "images/lavender-large.jpg"
+        ]
+	},
+    {
+        "id": "tulips",
+        "name" : "Tulips",
+        "desc" : "<p>Tulips are some of the most popular <u>spring flowers</u> of all time, and the third most popular flowers world-wide next only to the <u>Rose</u> and <u>Chrysanthemum</u>. <b>Tulips come in an incredible variety of colors, height, and flower shapes</b>. Some Tulips are even fragrant.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Lilliopsida",
+        "order" : "Liliales",
+        "family" : "Liliaceae",
+        "subfamily" : "N/A",
+        "genus" : "Tulipa",
+        "images" : [
+            "images/tulip-small.jpg",
+            "images/tulip-large.jpg"
+        ]
+    }
+]

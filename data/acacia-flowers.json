@@ -1,0 +1,16 @@
+	{
+		"id" : "acacia-flowers",
+        "name" : "Acacia Flowers",
+        "desc" : "<p>Acacias are reffered as <b>Wattles in Australian</b>, and as <b>Acacia in Africa and America</b>. Acacia is the largest genus of vascular plants in the plant kingdom. The name Acacia is derived from the <b>Greek word akis meaning a point or barb</b>. About 1350 species of Acacia are found throughout the world. Acacia makes an excellent garden plant.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Fabales",
+        "family" : "Fabaceae",
+        "subfamily" : "Mimosoideae",
+        "genus" : "Acacia",
+        "images" : [
+            "images/acacia-small.jpg",
+            "images/acacia-large.jpg"
+        ]
+	}

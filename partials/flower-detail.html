@@ -1,0 +1,49 @@
+<div class="row">
+	
+	<div class="col-md-8 col-md-offset-2">
+	<div class="text-center">
+	   <img ng-show="flowers.images.length" class="img-circle" ng-src="{{flowers.images[1]}}" alt="{{flowers.name}}" style="width: 200px; height: 200px;" />
+		<h1>{{flowers.name}}</h1>
+	</div>
+		
+	   <div ng-bind-html="flowers.desc"></div>
+	   
+	   <hr />
+	   
+	   <table class="table table-bordered table-striped">
+				<tr>
+					<td>Kingdom</td>
+					<td>{{flowers.kingdom}}</td>
+				</tr>
+				<tr>
+					<td>Division</td>
+					<td>{{flowers.division}}</td>
+				</tr>
+				<tr>
+					<td>Class</td>
+					<td>{{flowers.class}}</td>
+				</tr>
+				<tr>
+					<td>Order</td>
+					<td>{{flowers.order}}</td>
+				</tr>
+				<tr>
+					<td>Family</td>
+					<td>{{flowers.family}}</td>
+				</tr>
+				<tr>
+					<td>Subfamily</td>
+					<td>{{flowers.subfamily}}</td>
+				</tr>
+				<tr>
+					<td>Genus</td>
+					<td>{{flowers.genus}}</td>
+				</tr>
+			   </table>
+		
+		<small>
+			<em class="text-muted">Reference http://www.theflowerexpert.com/</em>
+		</small>
+	</div>
+	
+</div>

@@ -1,0 +1,16 @@
+    {
+        "id": "lavender",
+        "name" : "Lavenders",
+        "desc" : "<p>Lavenders are considered to be one of the <b> versatile flowers</b> in the world. Besides being one of the very sweet smelling flowers and beautiful flowers, lavenders are sought-after for multiple uses, ranging from culinary to medicinal uses.</p><p>The historic use and recognition of lavender is almost as old the history of man. As a herb, <b>lavender has been in documented use for over 2,500 years</b>. In ancient times lavender was used for mummification and perfume by the Egyptians, Phoenicians, and people of Arabia. Mention of lavenders can also be found in the<b> Bible</b>, not by the name lavender but rather by the name used at that time -<b> spikenard</b>.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Lamiales",
+        "family" : "Lamiaceae",
+        "subfamily" : "N/A",
+        "genus" : "Lavandula",
+        "images" : [
+            "images/lavender-small.jpg",
+            "images/lavender-large.jpg"
+        ]
+    }

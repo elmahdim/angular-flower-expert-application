@@ -1,0 +1,16 @@
+    {
+        "id": "tulips",
+        "name" : "Tulips",
+        "desc" : "<p>Tulips are some of the most popular <u>spring flowers</u> of all time, and the third most popular flowers world-wide next only to the <u>Rose</u> and <u>Chrysanthemum</u>. <b>Tulips come in an incredible variety of colors, height, and flower shapes</b>. Some Tulips are even fragrant.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Lilliopsida",
+        "order" : "Liliales",
+        "family" : "Liliaceae",
+        "subfamily" : "N/A",
+        "genus" : "Tulipa",
+        "images" : [
+            "images/tulip-small.jpg",
+            "images/tulip-large.jpg"
+        ]
+    }

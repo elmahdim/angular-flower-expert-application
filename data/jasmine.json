@@ -1,0 +1,16 @@
+    {
+        "id": "jasmine",
+        "name" : "Jasmine",
+        "desc" : "<p>The Jasmine is a very <u>popular flower</u> around the world especially in the tropics because of its <b>unique fragrance</b>. The Jasmine is native to tropical and warm or temperate regions of the old world.</p><p> The Jasmine flowers are white in most species, with some species being yellow. The Jasmine is believed to have originated in the Himalayas in western China.</p><p>Unlike most genera in the Oleceae family, which have four corolla lobe petals, <b>Jasmines often have five or six lobes.</b> Jasmines are often strong and sweet scented. Jasmines are widely cultivated for their shining leaves and beautiful clusters of <u>fragrant flowers</u>.</p><p> Flowering in Jasmines takes place in <u>summer</u> or spring which is usally six months after planting. The Jasmine flower releases its fragrance at night after the sun has set and especially when the moon is waxing towards fullness. Jasmine flower buds are more fragrant than the flowers.</p><p>There exists a true Jasmine and a false Jasmine, and the two are commonly mistaken for each other because of the fragrance the plants release. The <b>true Jasmine</b> belongs to the family Oleaceae and is primarily a bushy shrub or a climbing vine and is non-poisonous.</p><p> True Jasmines have oval, shiny leaves and tubular, waxy-white flowers. The false Jasmine on the other hand is in a completely different genus, Gelsemium, and family, Loganiaceae, which is considered too poisonous for human consumption.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Lamiales",
+        "family" : "Malvaceae",
+        "subfamily" : "Oleaceae",
+        "genus" : "Jasminum",
+        "images" : [
+            "images/jasmine-small.jpg",
+            "images/jasmine-large.jpg"
+        ]
+    }

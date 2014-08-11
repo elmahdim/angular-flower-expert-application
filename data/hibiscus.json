@@ -1,0 +1,16 @@
+    {
+        "id": "hibiscus",
+        "name" : "Hibiscus",
+        "desc" : "<p>Hibiscus is considered the <b>Queen of the Tropics</b>. Hibiscus grow wild in many tropical, subtropical, and warm-temperate regions around the world.</p><p><b>Hibiscus is a diverse genus</b> made up of roughly 220 species of annuals, herbaceous perennials, shrubs, subshrubs, and trees. Hibiscus have been cultivated for centuries. The name 'Hibiscus' comes from hibiskos, the old Greek name for the common marsh mallow. The most commonly grown species is Hibiscus rosa-sinensis, which means <b>China Rose</b>.</p><p>Hibiscus are large, flat, conspicuous, trumpet-shaped flowers. Hiscus flowers have five petals, ranging from white to pink, red, purple or yellow. The Hisbiscus petals range in size from 4-15 cm broad.</p>",
+        "kingdom": "Plantae",
+        "division" : "Magnoliophyta",
+        "class" : "Magnoliopsida",
+        "order" : "Malvales",
+        "family" : "Malvaceae",
+        "subfamily" : "N/A",
+        "genus" : "Hibiscus",
+        "images" : [
+            "images/hibiscus-small.jpg",
+            "images/hibiscus-large.jpg"
+        ]
+    }

@@ -1,0 +1,20 @@
+<ol class="breadcrumb text-center">
+  <li>Total Flowers: <strong>{{totalFlowers()}}</strong></li>
+  <li>Sort by: </li>
+  <li><a href="" ng-click="flower = '-name'; reverse=false">Newest</a></li>
+  <li><a href="" ng-click="flower = 'name'; reverse=false">Alphabetical</a></li>
+</ol>
+
+<div class="row" ng-repeat="item in flowers | orderBy:flower:reverse" style="padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #eee;">
+	<div class="col-sm-3 text-center" ng-show="item.images.length">
+	  <a href="#/flowers/{{item.id}}">
+		<img class="img-circle" ng-src="{{item.images[0]}}" alt="{{item.name}}" style="width: 140px; height: 140px;" />
+	  </a>
+	</div>
+	
+	<div class="col-sm-8">
+	   <h2>{{item.name}}</h2>
+	  <div ng-bind-html="item.desc | limitTo: 120"></div>
+	  <p><a class="btn btn-default" href="#/flowers/{{item.id}}" role="button">View details &raquo;</a></p>
+	</div>	
+</div>
